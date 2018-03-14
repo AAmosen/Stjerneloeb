@@ -5,8 +5,13 @@
       "type": "Feature",
       "properties": {
         "Spørgsmål": "Hvad er sfs",
-        "Svar": ["fsdf","dad","fdfsf"],
-        "rigtig": 1
+        "Svar": [
+          "fsdf",
+          "dad",
+          "fdfsf"
+        ],
+        "rigtig": 1,
+        "Farve": "Rød"
       },
       "geometry": {
         "type": "Point",
@@ -20,8 +25,13 @@
       "type": "Feature",
       "properties": {
         "Spørgsmål": "HVAD 435",
-        "Svar": ["fsdf","dad","fdfsf"],
-        "rigtig": 2
+        "Svar": [
+          "fsdf",
+          "dad",
+          "fdfsf"
+        ],
+        "rigtig": 2,
+        "Farve": "Blå"
       },
       "geometry": {
         "type": "Point",
@@ -35,8 +45,13 @@
       "type": "Feature",
       "properties": {
         "Spørgsmål": "HVAD TERT",
-        "Svar":["fsdf","dad","fdfsf"],
-        "rigtig": 3
+        "Svar": [
+          "fsdf",
+          "dad",
+          "fdfsf"
+        ],
+        "rigtig": 3,
+        "Farve": "Grøn"
       },
       "geometry": {
         "type": "Point",
