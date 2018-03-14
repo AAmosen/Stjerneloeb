@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Spørgsmål": "Hvad er sfs",
+        "Svar": ["fsdf","dad","fdfsf"],
+        "rigtig": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.138004302978516,
+          55.653112802390936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Spørgsmål": "HVAD 435",
+        "Svar": ["fsdf","dad","fdfsf"],
+        "rigtig": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.138690948486328,
+          55.65207163306678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Spørgsmål": "HVAD TERT",
+        "Svar":["fsdf","dad","fdfsf"],
+        "rigtig": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.142081260681152,
+          55.653911820537225
+        ]
+      }
+    }
+  ]
+}
