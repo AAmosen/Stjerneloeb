@@ -4,11 +4,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Spørgsmål": "Hvad er sfs",
+        "Spørgsmål": "Hvilkrn ring blev fundet ved Åmosen",
         "Svar": [
-          "fsdf",
-          "dad",
-          "fdfsf"
+          "Tissø ringen",
+          "Tisse ringen",
+          "Åmose ringen"
         ],
         "rigtig": 1,
         "Farve": "Rød"
@@ -24,11 +24,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Spørgsmål": "HVAD 435",
+        "Spørgsmål": "Hvornår blev Åmosen en del af Åmosen naturpark?",
         "Svar": [
-          "fsdf",
-          "dad",
-          "fdfsf"
+          "Det har den altid været",
+          "2013",
+          "Det er den endnu ikke"
         ],
         "rigtig": 2,
         "Farve": "Blå"
@@ -44,11 +44,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Spørgsmål": "HVAD TERT",
+        "Spørgsmål": "Hvad er Åmosen",
         "Svar": [
-          "fsdf",
-          "dad",
-          "fdfsf"
+          "Danmarks mindste mose",
+          "Danmarks største skov",
+          "Danmarks største lavmose"
         ],
         "rigtig": 3,
         "Farve": "Grøn"
